@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CityFinder": {
+      "commandName": "Project",
+      "commandLineArgs": "-c NL -p 2985TL"
+    }
+  }
+}

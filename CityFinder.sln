@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CityFinder", "CityFinder\CityFinder.csproj", "{615003F3-9415-4BFC-AE96-82F77B6B63E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CityFinderTests", "CityFinderTests\CityFinderTests.csproj", "{DD4FF550-C5C8-4880-8FB6-42C50711285F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{615003F3-9415-4BFC-AE96-82F77B6B63E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{615003F3-9415-4BFC-AE96-82F77B6B63E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{615003F3-9415-4BFC-AE96-82F77B6B63E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{615003F3-9415-4BFC-AE96-82F77B6B63E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD4FF550-C5C8-4880-8FB6-42C50711285F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD4FF550-C5C8-4880-8FB6-42C50711285F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD4FF550-C5C8-4880-8FB6-42C50711285F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD4FF550-C5C8-4880-8FB6-42C50711285F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C95E2541-F826-4116-95D6-7C8B31751F93}
+	EndGlobalSection
+EndGlobal
